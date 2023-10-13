@@ -46,7 +46,6 @@
           {
             title: "AYANMARKET",
             endtitle: ".kz",
-            to: "/",
           },
         ],
       };

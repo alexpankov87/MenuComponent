@@ -112,7 +112,6 @@
       } catch (error) {
         console.error("Error fetching data:", error);
       }
-      return true;
     },
 
     methods: {
@@ -138,7 +137,7 @@
 <style scoped>
   .v-application .mx-auto {
     margin-right: auto !important;
-    margin-left: auto !important;
+    margin-left: 450px !important;
     z-index: 9;
   }
 </style>
